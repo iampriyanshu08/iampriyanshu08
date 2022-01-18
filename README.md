@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on HTML,CSS & JAVASCRIPT
 - 🌱 I’m currently learning Web Development
